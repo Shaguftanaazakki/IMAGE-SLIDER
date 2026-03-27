@@ -20,7 +20,6 @@
 
 
 ### Prerequisites
-<img width="1334" height="615" alt="SLIDER ss" src="https://github.com/user-attachments/assets/00686dd9-0c45-473f-9aeb-ce0a2f85e077" />
 
 Before you begin, ensure you have met the following requirements:
 
